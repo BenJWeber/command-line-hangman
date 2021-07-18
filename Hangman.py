@@ -11,7 +11,7 @@ with open(r"wordlist.txt") as f:
 # inform player of rules
 print('''
          The underscores represent the unknown letters in your mystery word. It will update with correct guesses.
-        Guess one letter at a time or the whole word if you think you know it. After seven letter guesses you will be 
+        Guess one letter at a time or the whole word if you think you know it. After six letter guesses you will be 
     prompted to guess the word. You may only guess the full word once, after which you will be informed of your result. 
                                                         Good luck!
       ''')
